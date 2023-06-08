@@ -2,6 +2,8 @@
 supermarket inventory filtering with map data structure
 
 Output:
+default: see all products without any filtering
+both in stock and out of stock items are displayed
 
 ![image](https://github.com/marie-sheela-joseph/map-data-structure-practice/assets/92960836/682f1e3b-806f-4539-818a-8348719bcb68)
 
