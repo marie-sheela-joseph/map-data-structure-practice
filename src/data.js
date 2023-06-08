@@ -1,0 +1,23 @@
+export const products = [
+    { category: "Fruits", price: "$1", stocked: true, name: "Apple", quantity: 15 },
+    { category: "Vegetables", price: "$4", stocked: false, name: "Pumpkin", quantity: 0 },
+    { category: "Fruits", price: "$2", stocked: false, name: "Passionfruit", quantity: 0 },
+    { category: "Sea food", price: "$8", stocked: false, name: "crab", quantity: 0 },
+    { category: "Fruits", price: "$1", stocked: true, name: "Dragonfruit", quantity: 7 },
+    { category: "Vegetables", price: "$1", stocked: true, name: "Peas", quantity: 5 },
+    { category: "Meat", price: "$5", stocked: true, name: "Chicken breast", quantity: 20 },
+    { category: "Vegetables", price: "$3", stocked: true, name: "Onion", quantity: 30 },
+    { category: "Bakery", price: "$1", stocked: true, name: "Pain au chocolat", quantity: 3 },
+    { category: "Vegetables", price: "$2", stocked: true, name: "Spinach", quantity: 4 },
+    { category: "Sea food", price: "$7", stocked: true, name: "salmon", quantity: 15 },
+    { category: "Beverage", price: "$2", stocked: true, name: "Mixed fruit juice", quantity: 20 },
+    { category: "Sea food", price: "$10", stocked: true, name: "Tiger Prawns", quantity: 6 },
+    { category: "Beverage", price: "$1", stocked: true, name: "Cristalline water", quantity: 50 },
+    { category: "Fruits", price: "$2.30", stocked: true, name: "Tomato", quantity: 10 },
+    { category: "Beverage", price: "$3", stocked: true, name: "Orange juice", quantity: 3 },
+    { category: "Meat", price: "$4", stocked: false, name: "Turkey", quantity: 0 },
+    { category: "Beverage", price: "$2.5", stocked: false, name: "Strawberry juice", quantity: 0 },
+    { category: "Vegetables", price: "$1.10", stocked: true, name: "Mushroom", quantity: 9 },
+    { category: "Meat", price: "$3", stocked: true, name: "Pork", quantity: 11 },
+    { category: "Bakery", price: "$2", stocked: false, name: "Croissant", quantity: 7 }
+]
